@@ -1,8 +1,6 @@
 # Iasonas Georgiadis
 
-## Lead Product Designer | Principal Product Designer | AI-driven Workflows | Design Systems**
-
----
+## Lead Product Designer | Principal Product Designer
 
 Hello! I'm Iasonas Georgiadis, a Lead Product Designer with 12+ years of experience, building scalable design systems, accessible interfaces, strengthening collaboration between designers and engineers, and shaping design-to-code workflows powered by AI.
 
@@ -14,10 +12,10 @@ Hello! I'm Iasonas Georgiadis, a Lead Product Designer with 12+ years of experie
 
 ### Professional Experience
 
-- **Lead Product Designer** - Wiley *(2018–Present)*  
-- **Senior Product Designer** - Wiley *(2020–2022)*  
-- **Senior UX/UI Designer** - Atypon *(2018–2020)*  
-- **UX/UI Designer** - Lighthouse SA *(2013–2018)*
+- **Lead Product Designer - Wiley** *(2018–Present)*  
+- **Senior Product Designer - Wiley** *(2020–2022)*  
+- **Senior UX/UI Designer - Atypon** *(2018–2020)*  
+- **UX/UI Designer - Lighthouse SA** *(2013–2018)*
 
 ### Skills
 
@@ -30,15 +28,15 @@ Hello! I'm Iasonas Georgiadis, a Lead Product Designer with 12+ years of experie
 
 ### Education
 
-- Athens University of Economics and Business, Coding Factory Bootcamp - **Certification in Full-Stack Development**
-- University of West Attica, Department of Graphic Arts - **Bachelor’s Degree in Graphic Arts**
+- **Athens University of Economics and Business, Coding Factory Bootcamp** - Certification in Full-Stack Development
+- **University of West Attica, Department of Graphic Arts** - Bachelor’s Degree in Graphic Arts
 
 ### Latest Articles
 
 I write about design systems, AI workflows, and the intersection of design and engineering.
 
-- [Building AI-driven workflows powered by Claude Code and other tools](https://uxdesign.cc/designing-with-claude-code-and-codex-cli-building-ai-driven-workflows-powered-by-code-connect-ui-f10c136ec11f) - UX Collective
-- [Designing with MCP Server: Bridging Design Systems and AI Workflows](https://uxdesign.cc/designing-with-mcp-server-bridging-design-systems-and-ai-workflows-XXXX) - Bootcamp
+- [Building AI-driven workflows powered by Claude Code and other tools](https://uxdesign.cc/designing-with-claude-code-and-codex-cli-building-ai-driven-workflows-powered-by-code-connect-ui-f10c136ec11f) - *Featured on UX Collective*
+- [Designing with MCP Server: Bridging Design Systems and AI Workflows](https://medium.com/design-bootcamp/designing-with-mcp-server-bridging-design-systems-and-ai-for-developer-friendly-prototypes-4f08b0a0881d) - Bootcamp
 - [Designing with Prompts: A Product Designer’s Journey into Exploring AI Tools](https://medium.com/design-bootcamp/designing-with-prompts-a-product-designers-journey-into-exploring-ai-tools-116aefa70966) - Bootcamp
 
 ### Current Focus
